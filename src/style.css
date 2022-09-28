@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header > button{
+    cursor: pointer;
+}
+
+.post{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post > div:not(div:last-child){
+    width: 100%;
+    text-align: center;
+}
+
+.preview{
+    max-height: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.postButtons{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.postButtons > div{
+    cursor: pointer;
+}
+
+/* NEW POST */
+.postEditor{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.section{
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons{
+    display: flex;
+    gap: 2px;
+}
+
+.paragraphContainer{
+    padding: 10px 0px;
+}
