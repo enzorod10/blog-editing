@@ -22,3 +22,13 @@ Live Site: https://enzorod10.github.io/blog-editing/dist/index.html (Password pr
     ·
   </p>
 </div>
+
+_In the following screenshot, I am creating a new blog post._
+
+![blog-editing-screenshot1](https://user-images.githubusercontent.com/93365813/193399945-25278c9b-4ee9-487b-afcb-1486713ab70c.png)
+
+_On this screenshot, you can see all of the posts (including the one I just created above) and they all have the ability to be edited at any time._
+
+![blog-editing-screenshot2](https://user-images.githubusercontent.com/93365813/193399989-d7c7622a-e210-40a4-baeb-fe05bfa5a27a.png)
+
+
