@@ -1,4 +1,4 @@
-The editing portion of my blog. This website hosts the ability to create, delete and update posts. Each post has a title and a summary. The editor
+The editing portion of my blog. This website gives me the ability to create, delete and update posts. Each post has a title and a summary. The editor
 allows me to create new sections which are properly formatted as headers in the blog itself. Each section has any number of paragraphs and paragraps
 can be code blocks (markup, css, javascript).
 
